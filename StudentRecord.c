@@ -19,8 +19,8 @@ int main()
 {
     
     
-    input(student);
-    display(student);
+    input(student); //calling the input fnc
+    display(student); //calling the display function
     return 0;
 }
 
